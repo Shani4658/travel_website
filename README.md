@@ -5,6 +5,9 @@ Welcome to Travel Trails, a responsive travel website designed to inspire and he
 Overview
 Travel Trails is a website aimed at providing users with a seamless travel booking experience. It features stunning destinations, customizable travel packages, and essential travel services in a modern, responsive layout.
 
+
+Preview:  https://github.com/user-attachments/assets/b23d220b-b956-4937-8ede-7a3a2551b3fc
+
 Features
 Responsive Navbar: A fully responsive navigation bar with Bootstrap, allowing users to navigate between sections with ease.
 Travel Packages: Multiple travel packages to choose from, each with unique details and attractive offers.
