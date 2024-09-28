@@ -17,26 +17,7 @@ CSS3: For styling the webpage and enhancing its aesthetic appeal.
 Bootstrap 5: For responsive layout and design components like navbar, grid system, and buttons.
 Font Awesome: For using icons in various sections of the site.
 Google Fonts: To include modern typography and enhance text design.
-JavaScript: To add interactivity and dynamic elements to the webpage.
-
-
-
-Installation
-To run this project locally, follow these steps:
-
-Clone the repository:
-
-
-git clone https://github.com/your-username/travel-trails.git
-Navigate to the project directory:
-
-
-cd travel-trails
-Open index.html in your browser to view the website:
-
-Copy code
-open index.html
-     
+JavaScript: To add interactivity and dynamic elements to the webpage.     
 
 
 
