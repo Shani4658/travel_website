@@ -1,4 +1,6 @@
 Travel Trails 🌍
+
+
 Welcome to Travel Trails, a responsive travel website designed to inspire and help users plan their next travel adventure. Built using HTML, CSS, Bootstrap, and JavaScript, this project showcases beautiful design elements and modern web technologies to provide an intuitive, user-friendly experience for travel enthusiasts.
 Overview
 Travel Trails is a website aimed at providing users with a seamless travel booking experience. It features stunning destinations, customizable travel packages, and essential travel services in a modern, responsive layout.
